@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Sort movies by</string>
+    <string name="pref_sorting_criteria_key">sorting_criteria</string>
+    <string name="pref_sorting_order_key">sorting_order</string>
+    <string name="pref_sorting_order_default_value">desc</string>
+    <string name="pref_sorting_criteria_default_value">popularity</string>
+
+    <string name="title_activity_movie_details">Movie Details</string>
+
+    <string name="popularity">popularity</string>
+    <string name="vote_average">vote_average</string>
+    <string name="revenue">revenue</string>
+
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="revenueT">Revenue</string>
+</resources>
